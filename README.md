@@ -1,1 +1,1 @@
-# ee
+# javaee-project
